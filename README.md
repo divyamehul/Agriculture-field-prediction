@@ -18,6 +18,8 @@ a Random Forest.
 
 The code is written in the notebook attached. To run it, cd into the folder, and execute
 
-"python es22btech11013_foml24_hackathon.py --test-file ~/test.csv --predictions-file ~/output.csv"
+"bash eval.sh es22btech11013"
 
-Check the output.csv with predictions in your home directory.
+OR
+
+"python es22btech11013_foml24_hackathon.py --test-file ~/test.csv --predictions-file ~/output.csv"
