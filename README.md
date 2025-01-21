@@ -14,6 +14,6 @@ a Random Forest.
 **Details to use the model**
 
 The code is written in the notebook attached. To run it, cd into the folder, and execute
-python es22btech11013_foml24_hackathon.py --test-file ~/test.csv --predictions-file ~/output.csv
+"python es22btech11013_foml24_hackathon.py --test-file ~/test.csv --predictions-file ~/output.csv"
 
 Check the output.csv with predictions in your home directory.
