@@ -16,6 +16,8 @@ a Random Forest.
 
 **Details to use the model**
 
+Unzip the train and test data from Data.zip file.
+
 The code is written in the notebook attached. To run it, cd into the folder, and execute
 
 "bash eval.sh es22btech11013"
