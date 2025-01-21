@@ -5,8 +5,11 @@
 As a part of extended coursework in Machine Learning, we developed a model to predict quality of an agricultural field by analyzing a farmers’ dataset. This project was under the guidance of Prof. Vineeth N. Balasubramanian. The implementation steps were:
 
 ◦ Conducted exploratory data analysis by analyzing data, visualizing data, and understanding the features
+
 ◦ Conducted data pre-processing by handling missing data (imputations), normalizing the dataset, and one-hot encoding categorical variables
+
 ◦ Conducted feature engineering based on correlation of features with target variable
+
 ◦ Tried different models such as XGBoost, AdaBoost, Logistic Regression etc. Best performance was given by
 a Random Forest.
 
